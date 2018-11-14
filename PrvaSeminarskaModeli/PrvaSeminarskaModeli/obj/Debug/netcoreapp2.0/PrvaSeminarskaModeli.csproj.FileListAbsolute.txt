@@ -1,0 +1,11 @@
+D:\Documents\SCHOOL\UI\PrvaSeminarskaNaloga\PrvaSeminarskaModeli\PrvaSeminarskaModeli\bin\Debug\netcoreapp2.0\PrvaSeminarskaModeli.deps.json
+D:\Documents\SCHOOL\UI\PrvaSeminarskaNaloga\PrvaSeminarskaModeli\PrvaSeminarskaModeli\bin\Debug\netcoreapp2.0\PrvaSeminarskaModeli.runtimeconfig.json
+D:\Documents\SCHOOL\UI\PrvaSeminarskaNaloga\PrvaSeminarskaModeli\PrvaSeminarskaModeli\bin\Debug\netcoreapp2.0\PrvaSeminarskaModeli.runtimeconfig.dev.json
+D:\Documents\SCHOOL\UI\PrvaSeminarskaNaloga\PrvaSeminarskaModeli\PrvaSeminarskaModeli\bin\Debug\netcoreapp2.0\PrvaSeminarskaModeli.dll
+D:\Documents\SCHOOL\UI\PrvaSeminarskaNaloga\PrvaSeminarskaModeli\PrvaSeminarskaModeli\bin\Debug\netcoreapp2.0\PrvaSeminarskaModeli.pdb
+D:\Documents\SCHOOL\UI\PrvaSeminarskaNaloga\PrvaSeminarskaModeli\PrvaSeminarskaModeli\obj\Debug\netcoreapp2.0\PrvaSeminarskaModeli.csprojAssemblyReference.cache
+D:\Documents\SCHOOL\UI\PrvaSeminarskaNaloga\PrvaSeminarskaModeli\PrvaSeminarskaModeli\obj\Debug\netcoreapp2.0\PrvaSeminarskaModeli.csproj.CoreCompileInputs.cache
+D:\Documents\SCHOOL\UI\PrvaSeminarskaNaloga\PrvaSeminarskaModeli\PrvaSeminarskaModeli\obj\Debug\netcoreapp2.0\PrvaSeminarskaModeli.AssemblyInfoInputs.cache
+D:\Documents\SCHOOL\UI\PrvaSeminarskaNaloga\PrvaSeminarskaModeli\PrvaSeminarskaModeli\obj\Debug\netcoreapp2.0\PrvaSeminarskaModeli.AssemblyInfo.cs
+D:\Documents\SCHOOL\UI\PrvaSeminarskaNaloga\PrvaSeminarskaModeli\PrvaSeminarskaModeli\obj\Debug\netcoreapp2.0\PrvaSeminarskaModeli.dll
+D:\Documents\SCHOOL\UI\PrvaSeminarskaNaloga\PrvaSeminarskaModeli\PrvaSeminarskaModeli\obj\Debug\netcoreapp2.0\PrvaSeminarskaModeli.pdb
