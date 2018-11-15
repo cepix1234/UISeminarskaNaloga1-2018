@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.IO;
 
 namespace PrvaSeminarskaModeli
@@ -15,6 +14,9 @@ namespace PrvaSeminarskaModeli
             _games = new List<List<string>>();
             _document = document;
         }
+
+        public DocumnetReader()
+        { }
 
         public void setGames(List<List<String>> games)
         {
@@ -41,11 +43,9 @@ namespace PrvaSeminarskaModeli
             }
         }
 
-        public void saveFile(List<List<String>> games)
+        public void saveFile(List<List<String>> games, string docName)
         {
-            _document = _document.Replace(".txt", "-Output.txt");
-
-            using ( StreamWriter file = new StreamWriter(_document))
+            using ( StreamWriter file = new StreamWriter(docName))
             {
                 foreach (List<String> game in games)
                 {

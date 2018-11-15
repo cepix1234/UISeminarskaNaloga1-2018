@@ -12,6 +12,9 @@ namespace PrvaSeminarskaModeli
             String winner = Console.ReadLine();
             Console.WriteLine("Team statistics for N game before");
             int nStatistics = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Set ratio for test to learn model");
+            int learnToTestRatio = Convert.ToInt32(Console.ReadLine());
+
 
             Boolean winnerIsHome = false;
             if (winner == "Y")
@@ -21,9 +24,9 @@ namespace PrvaSeminarskaModeli
 
             DocumnetReader reader = new DocumnetReader(document);
             reader.readFile();
-            GameStatistics games = new GameStatistics(reader._games, nStatistics, winnerIsHome);
-            games.parseGames();
-            reader.saveFile(games._ParsedGames);
+            setLearnAndTestModel models = new setLearnAndTestModel(reader._games, learnToTestRatio, nStatistics, winnerIsHome);
+            models.setRandomRatio();
+            models.saveFiles();
         }
     }
 }

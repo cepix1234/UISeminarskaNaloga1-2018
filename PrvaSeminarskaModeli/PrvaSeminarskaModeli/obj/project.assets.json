@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\SCHOOL\\UI\\PrvaSeminarskaNaloga\\PrvaSeminarskaModeli\\PrvaSeminarskaModeli\\PrvaSeminarskaModeli.csproj",
+      "projectUniqueName": "D:\\Documents\\SCHOOL\\UI\\PrvaSeminarskaNaloga\\UISeminarskaNaloga1-2018\\PrvaSeminarskaModeli\\PrvaSeminarskaModeli\\PrvaSeminarskaModeli.csproj",
       "projectName": "PrvaSeminarskaModeli",
-      "projectPath": "D:\\Documents\\SCHOOL\\UI\\PrvaSeminarskaNaloga\\PrvaSeminarskaModeli\\PrvaSeminarskaModeli\\PrvaSeminarskaModeli.csproj",
+      "projectPath": "D:\\Documents\\SCHOOL\\UI\\PrvaSeminarskaNaloga\\UISeminarskaNaloga1-2018\\PrvaSeminarskaModeli\\PrvaSeminarskaModeli\\PrvaSeminarskaModeli.csproj",
       "packagesPath": "C:\\Users\\blaz\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\SCHOOL\\UI\\PrvaSeminarskaNaloga\\PrvaSeminarskaModeli\\PrvaSeminarskaModeli\\obj\\",
+      "outputPath": "D:\\Documents\\SCHOOL\\UI\\PrvaSeminarskaNaloga\\UISeminarskaNaloga1-2018\\PrvaSeminarskaModeli\\PrvaSeminarskaModeli\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
