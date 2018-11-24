@@ -52,7 +52,7 @@ namespace PrvaSeminarskaModeli
                     String line = "";
                     foreach (String value in game)
                     {
-                        line += value + ",";
+                        line += value + ";";
                     }
                     line = line.Remove(line.Length - 1);
                     file.WriteLine(line);
