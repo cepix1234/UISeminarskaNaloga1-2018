@@ -25,7 +25,6 @@ namespace PrvaSeminarskaModeli
             DocumnetReader reader = new DocumnetReader(document);
             reader.readFile();
             setLearnAndTestModel models = new setLearnAndTestModel(reader._games, learnToTestRatio, nStatistics, winnerIsHome);
-            models.setRandomRatio();
             models.saveFiles();
         }
     }
